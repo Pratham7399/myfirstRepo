@@ -21,6 +21,7 @@ public class TestStack {
 	                System.out.println("4. Check if full");
 	                System.out.println("5. Display all elements");
 	                System.out.println("0. Quit");
+	                System.out.println("Choose any option:");
 	            
 	              
 
